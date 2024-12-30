@@ -5,7 +5,7 @@ XinYing0905/XinYing0905 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 ## 💫 About Me:
-👀 I’m pursuing undergraduate study of computer science in UTM, Malaysia<br>🌱 I’m currently learning C++<br>💞️ I’m looking to collaborate on some fancy project<br>📫 How to reach me: xying4106@gmail.com<br>👨‍💻 My e-portfolio [https://xinying0905.github.io/xyportfolio](https://xinying0905.github.io/xyportfolio)<br>📄 Know about my experiences [https://drive.google.com/file/d/1em8SV9cPUlf4T0QjIfepqc6d050O_7Vw/view?usp=sharing](https://drive.google.com/file/d/1em8SV9cPUlf4T0QjIfepqc6d050O_7Vw/view?usp=sharing)<br>😄 Pronouns: she/her<br>⚡ Fun fact: vegetarian
+👀 I’m pursuing undergraduate study of computer science in UTM, Malaysia<br>🌱 I’m currently learning C++<br>💞️ I’m looking to collaborate on some fancy project<br>📫 How to reach me: xying4106@gmail.com<br>👨‍💻 My e-portfolio [https://xinying0905.github.io/xyportfolio](https://xinying0905.github.io/xyportfolio)<br>📄 Know about my experiences [https://drive.google.com/file/d/1em8SV9cPUlf4T0QjIfepqc6d050O_7Vw/view?usp=sharing](https://drive.google.com/file/d/1em8SV9cPUlf4T0QjIfepqc6d050O_7Vw/view?usp=sharing)<br>😄 Pronouns: she/her<br>⚡ Fun fact: vegetarian 🥦
 
 
 ## 🌐 Socials:
@@ -13,6 +13,15 @@ You can click the Preview link to take a look at your changes.
 <a href="https://linkedin.com/in/xin-ying-tay-4106txy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xin-ying-tay-4106txy" height="30" width="40" /></a>
 <a href="https://instagram.com/txiny905" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="txiny905" height="30" width="40" /></a>
 </p>
+
+# 1/SECPH
+UTM E-Portfolio
+| Subject | Link  |
+|--|--|
+| Technology and Information System |  [SECP1513](https://github.com/XinYing0905/tis)|
+| Digital Logic | [SECR1013](https://github.com/XinYing0905/digital-logic) |
+| Discrete Structure | [SECI1013](https://github.com/XinYing0905/Y1S1/tree/main/Discrete%20Structure)|
+| Programming Technique 1 | [SECJ1013](https://github.com/XinYing0905/Y1S1/tree/main/Programming%20technique%201)|
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
