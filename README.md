@@ -5,7 +5,7 @@ XinYing0905/XinYing0905 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 ## 💫 About Me:
-👀 I’m pursuing undergraduate study of computer science in UTM, Malaysia<br>🌱 I’m currently learning C++<br>💞️ I’m looking to collaborate on some fancy project<br>📫 How to reach me: xying4106@gmail.com<br>👨‍💻 My e-portfolio [https://xinying0905.github.io/xyportfolio](https://xinying0905.github.io/xyportfolio)<br>📄 Know about my experiences [https://drive.google.com/file/d/1em8SV9cPUlf4T0QjIfepqc6d050O_7Vw/view?usp=sharing](https://drive.google.com/file/d/1em8SV9cPUlf4T0QjIfepqc6d050O_7Vw/view?usp=sharing)<br>😄 Pronouns: she/her<br>⚡ Fun fact: vegetarian 🥦
+👀 I’m pursuing undergraduate study of computer science in UTM, Malaysia<br>🌱 I’m currently learning C++<br>💞️ I’m looking to collaborate on some fancy project<br>📫 How to reach me: xying4106@gmail.com<br>👨‍💻 My e-portfolio [https://xinying0905.github.io/xyportfolio](https://xinying0905.github.io/xyportfolio)<br>📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1em8SV9cPUlf4T0QjIfepqc6d050O_7Vw/view?usp=sharing)<br>😄 Pronouns: she/her<br>⚡ Fun fact: vegetarian 🥦
 
 
 ## 🌐 Socials:
