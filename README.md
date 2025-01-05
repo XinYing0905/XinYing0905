@@ -37,9 +37,10 @@ UTM E-Portfolio
 | Subject | Link  |
 |--|--|
 | Technology and Information System |  [SECP1513](https://github.com/XinYing0905/tis)|
-| Digital Logic | [SECR1013](https://github.com/XinYing0905/digital-logic) |
-| Discrete Structure | [SECI1013](https://github.com/XinYing0905/Y1S1/tree/main/Discrete%20Structure)|
-| Programming Technique 1 | [SECJ1013](https://github.com/XinYing0905/Y1S1/tree/main/Programming%20technique%201)|
+| Digital Logic | [SECR1013](https://github.com/XinYing0905/digital-logic)|
+| Discrete Structure | [SECI1013](https://github.com/XinYing0905/discreteStructure)|
+| Programming Technique 1 | [SECJ1013](https://github.com/XinYing0905/pt1)|
+| Integrity and Anti-Corruption | [ULRS1032](https://github.com/XinYing0905/Anti-Rasuah)|
 
 ## 🌐 Socials:
 <p align="left">
