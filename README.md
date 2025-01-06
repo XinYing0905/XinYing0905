@@ -8,12 +8,12 @@ You can click the Preview link to take a look at your changes.
 👀 I’m pursuing undergraduate study of computer science in UTM, Malaysia<br>🌱 I’m currently learning C++<br>💞️ I’m looking to collaborate on some fancy project<br>📫 How to reach me: xying4106@gmail.com<br>👨‍💻 My e-portfolio [https://xinying0905.github.io/xyportfolio](https://xinying0905.github.io/xyportfolio)<br>📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1em8SV9cPUlf4T0QjIfepqc6d050O_7Vw/view?usp=sharing)<br>😄 Pronouns: she/her<br>⚡ Fun fact: vegetarian 🥦
 
 ## 🧑‍🏫 Education 
-| Institution | Duration  |
-|--|--|
-| SJK Chung Hua No.4 | 2012 - 2017 |
-| SMK Green Road | 2018 - 2022 |
-| Labuan Matriculation College | 2023 - 2024 |
-| Universiti Teknologi Malaysia | 2024 - now |
+| Education | Institution | Duration  |
+|--|--|--|
+| Primary | SJK Chung Hua No.4 | 2012 - 2017 |
+| Secondary | SMK Green Road | 2018 - 2022 |
+| Pre - University | Labuan Matriculation College | 2023 - 2024 |
+| Bachelor Degree | Universiti Teknologi Malaysia | 2024 - now |
 
 ## 🌸 Hobby
 🎹 Piano<br>
