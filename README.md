@@ -17,8 +17,8 @@ You can click the Preview link to take a look at your changes.
 
 ## 🌸 Hobby
 🎹 Piano<br>
-🎸 Guitar<br>
 🎼 Chinese Flute<br>
+😴 Sleep?<br>
 
 ## 🔧 Skills
 Microsoft office ☺️ <br>
